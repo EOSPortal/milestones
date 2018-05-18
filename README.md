@@ -1,6 +1,6 @@
 # Milestones
 
-## Do not tag your own issues. We will go over them as a group and tag them together.
+## Do not tag your own issues as MVP or Post-MVP, only as Back-end/Front-end. We will go over them as a group and tag them together.
 
 All global tickets for the MVP and final product will live here.
 
